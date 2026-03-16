@@ -40,7 +40,7 @@ Used Metasploit module:
 exploit/unix/ftp/vsftpd_234_backdoor
 
 ### 5. Root Access
-Successfully obtained root shell on the target machine.
+Successfully obtained root shell access on the target machine.
 
 ## Screenshots
 
