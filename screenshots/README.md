@@ -18,6 +18,16 @@ Target Machine:
 Virtualization:
 - VirtualBox
 
+## Network Diagram
+
+Kali Linux (Attacker)
+        │
+        │
+Host-only network
+        │
+        │
+Metasploitable (Target)
+
 ## Tools Used
 
 - Nmap
