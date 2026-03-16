@@ -22,12 +22,10 @@ Virtualization:
 
 Kali Linux (Attacker)
 
-        │
-        
+              
 Host-only network
 
-        │
-        
+      
 Metasploitable (Target)
 
 ## Tools Used
