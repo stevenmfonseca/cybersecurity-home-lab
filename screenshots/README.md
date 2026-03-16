@@ -20,13 +20,7 @@ Virtualization:
 
 ## Network Diagram
 
-Kali Linux (Attacker)
-        │
-        │
-Host-only network
-        │
-        │
-Metasploitable (Target)
+Kali Linux (Attacker) -> Host-only network -> Metasploitable (Target)
 
 ## Tools Used
 
